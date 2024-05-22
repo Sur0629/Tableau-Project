@@ -1,4 +1,5 @@
-# Tableau-Project.
+Project - 1
+
 Objective:
 Analyze and visualize yearly road accident data to identify trends, patterns, and areas for safety improvements.
 
@@ -32,5 +33,35 @@ Recommended targeted safety measures and policy changes based on the analysis.
 
 
 
-Project 2
 
+
+Project - 2
+
+Objective:
+Segment UK bank customers to identify distinct groups based on behavior and demographics, aiding targeted marketing strategies.
+
+Key Activities:
+
+Data Preparation:
+
+Imported and cleaned customer data in Tableau.
+Ensured data accuracy and handled missing values.
+Exploratory Data Analysis (EDA):
+
+Conducted EDA to understand the distribution and key characteristics of customer data.
+Customer Segmentation:
+
+Applied clustering techniques to segment customers based on criteria like spending behavior, account usage, and demographics.
+Used K-means clustering to identify distinct customer segments.
+Visualization:
+
+Created visualizations to represent different customer segments.
+Used bar charts, scatter plots, and pie charts to illustrate segment characteristics.
+Dashboard Creation:
+
+Developed an interactive dashboard in Tableau.
+Included visualizations and filters for dynamic data exploration.
+Insights and Recommendations:
+
+Provided insights into customer behavior and preferences.
+Recommended personalized marketing strategies for different customer segments.
