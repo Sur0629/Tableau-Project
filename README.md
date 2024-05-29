@@ -7,7 +7,7 @@ Key Activities:
 
 Data Preparation:
 
-Imported and cleaned the road accident dataset in Tableau....
+Imported and cleaned the road accident dataset in Tableau...
 Prepared data by addressing missing values and ensuring data accuracy.
 Exploratory Data Analysis (EDA):
 
