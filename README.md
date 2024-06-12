@@ -12,7 +12,7 @@ Prepared data by addressing missing values and ensuring data accuracy.
 Exploratory Data Analysis (EDA):
 
 Conducted EDA to understand the distribution and key characteristics of the accident data.
-Trend Analysis:
+Trend Analysis:-
 
 Analyzed yearly trends in road accidents.
 Created time series visualizations to illustrate changes in accident frequency over years.
