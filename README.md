@@ -5,7 +5,7 @@ Analyze and visualize yearly road accident data to identify trends, patterns, an
 
 Key Activities: 
 
-Data Preparation:
+Data Preparation:-
 
 Imported and cleaned the road accident dataset in Tableau.
 Prepared data by addressing missing values and ensuring data accuracy.
