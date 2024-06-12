@@ -19,7 +19,7 @@ Created time series visualizations to illustrate changes in accident frequency o
 Geospatial Analysis:
 
 Mapped accident locations to identify high-risk areas using Tableau’s mapping features.
-Categorical Analysis:
+Categorical Analysis:-
 
 Analyzed accidents by categories such as cause, severity, vehicle type, and time of day.
 Dashboard Creation:
