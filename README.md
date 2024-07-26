@@ -1,4 +1,4 @@
-Project - 1 ..
+Project - 1 .
 Objective:
 Analyze and visualize yearly road accident data to identify trends, patterns, and areas for safety improvements.
 
